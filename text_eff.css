@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.text {
+  height: auto;
+  width: fit-content;
+  background: linear-gradient(90deg, red 0%, purple 50%, orange 100%);
+  font-size: 3em;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 600;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
